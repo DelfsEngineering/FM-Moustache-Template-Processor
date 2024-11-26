@@ -1,6 +1,6 @@
 # processMustacheTemplate - FileMaker Custom Function
 
-**processMustacheTemplate** is a FileMaker Custom Function that enables advanced conditional text templating within the FileMaker calculation engine. It allows you to create dynamic text templates with conditionals and variable substitutions, which can be used for context-aware prompting—such as generating prompts for Large Language Models (LLMs) based on variable conditions.
+**processMustacheTemplate** is a FileMaker Custom Function that enables advanced conditional text templating within the FileMaker calculation engine. It allows you to create dynamic text templates with conditionals and variable substitutions, which can be used for context-aware prompting—such as generating prompts for Large Language Models (LLMs) based on variable conditions. Open file as `Guest`.
 
 ## Table of Contents
 
